@@ -14,8 +14,6 @@
 
 [jQuery API](http://api.jquery.com/)
 
-[SQL编辑器DBeaver(替代AquaData)](http://3ms.huawei.com/hi/blog/10611_1940461.html?h=h)
-
 [React](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
 [React技术栈](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
